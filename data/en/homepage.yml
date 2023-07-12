@@ -1,51 +1,51 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Collect data accurately the first time"
+  content: "A digital workflow that eliminates paper forms"
   image: "images/watch.png"
   button:
     enable: true
-    label: "Browse All Products"
-    link: "products/"
+    label: "Chat with us"
+    link: "contact/"
 
 ############################# Feature ############################
 features:
   enable: true
   title: "Our Core Features"
-  image: "images/watch-2.png"
+  # image: "images/watch-2.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Set User Accounts & Permissions"
       icon: "tf-ion-ios-alarm-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Form Upload & Management"
       icon: "tf-ion-ios-bell-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Submission Upload & Management"
       icon: "tf-ion-ios-cart-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Support Different Data Types"
       icon: "tf-ion-ios-alarm-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Form Encryption"
       icon: "tf-ion-ios-bell-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Modern REST API"
       icon: "tf-ion-ios-cart-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
