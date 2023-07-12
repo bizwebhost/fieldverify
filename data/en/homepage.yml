@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Collect data accurately the first time"
   content: "A digital workflow that eliminates paper forms"
-  image: "images/watch.png"
+  image: "images/form-hero.png"
   button:
     enable: true
     label: "Chat with us"
