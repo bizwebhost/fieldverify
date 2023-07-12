@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.fieldverify.co.za/"
-title = "Vex | hugo landing page template"
+title = "Field Verify | collect data accurately"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
