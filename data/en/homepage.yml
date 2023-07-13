@@ -91,12 +91,12 @@ about_product:
 
 #################################### Products ########################
 products:
-  enable: true
+  enable: false
   title: "Checkout Our All Products"
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -104,7 +104,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: true
+  enable: false
   title: "Watch Review"
   testimonial_item:
     # testimonial item loop
