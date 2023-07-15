@@ -63,15 +63,61 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Why Choose Field Verify"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Management"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "User management with role based permissioning.
+        <br />
+        Projects provides for segregation of data collection.
+        <br />
+        Form upload and management.
+        <br />
+        Submission upload and management.
+        <br />
+        Managing entities to support follow-up forms.
+        <br />
+        Form encryption to support privacy concerns.
+        <br />
+        Audit logs."
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    - image: "images/showcase/showcase-4.png"
+      title: "Forms"
+      content:
+        "Supports different data types, validation logic and attachments.
+        <br />
+        Log enumerator behaviour during form completion.
+        <br />
+        Data collection using ODK Collector or Enketo.
+        <br />
+        Launch external applications from within forms.
+        <br />
+        Versioning to keep track of form changes.
+        <br />
+        Choose which forms support encryption."
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    - image: "images/showcase/showcase-4.png"
+      title: "Data Collection Workflows."
+      content:
+        "Single encounters - data is collected once and submitted.
+        <br />
+        Encounters with known entities - include entities to collect data about.
+        <br />
+        Multiple encounters with the same entity - use different submissions.
+        <br />
+        Multiple observations with the same data.
+        <br />
+        Map driven data collection - use points, lines and polygons."
       button:
         enable: false
         label: "Check Features"
@@ -79,11 +125,13 @@ about_product:
 
     # about product item loop
     - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Integration"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Powerful REST API - provides various endpoints.
+        <br />
+        OData feed - to power capable clients.
+        <br />
+        Integration to 3rd party platforms through REST API."
       button:
         enable: false
         label: "Check Features"
