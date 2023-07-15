@@ -107,7 +107,7 @@ about_product:
         link: "#/"
 
     - image: "images/showcase/showcase-4.png"
-      title: "Data Collection Workflows."
+      title: "Data Collection Workflows"
       content:
         "Single encounters - data is collected once and submitted.
         <br />
