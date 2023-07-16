@@ -55,7 +55,7 @@ weight = 2
 [[menu.main]]
 name = "How It Works"
 pre = "#"
-url = "about_product"
+url = "how_it_works"
 weight = 3
 
 [[menu.main]]
