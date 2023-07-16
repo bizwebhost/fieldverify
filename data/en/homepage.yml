@@ -19,35 +19,35 @@ features:
   left_side:
     # feature item loop
     - title: "Set User Accounts & Permissions"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-alarm-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
     - title: "Form Upload & Management"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-bell-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
     - title: "Submission Upload & Management"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-cart-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "Support Different Data Types"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-alarm-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
     - title: "Form Encryption"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-bell-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
     - title: "Modern REST API"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # icon: "tf-ion-ios-cart-outline"
+      # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 ############################# promo ############################
 promo:
