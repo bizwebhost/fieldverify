@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Collect data accurately the first time"
-  content: "A digital workflow that eliminates paper forms"
+  content: "A digital workflow that eliminates paper forms powered by <b>Open Data Kit<b>"
   image: "images/form-hero.png"
   button:
     enable: true
