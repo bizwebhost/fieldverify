@@ -106,7 +106,7 @@ about_product:
         label: "Check Features"
         link: "#/"
 
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/showcase/workflow.png"
       title: "Data Collection Workflows"
       content:
         "Single encounters - data is collected once and submitted.
