@@ -66,7 +66,7 @@ about_product:
   title: "Why Choose Field Verify"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/showcase/management.png"
       title: "Management"
       content:
         "User management with role based permissioning.
@@ -87,7 +87,7 @@ about_product:
         label: "Check Features"
         link: "#/"
 
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/showcase/form.png"
       title: "Forms"
       content:
         "Supports different data types, validation logic and attachments.
@@ -124,7 +124,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
+    - image: "images/showcase/api.png"
       title: "Integration"
       content:
         "Powerful REST API - provides various endpoints.
