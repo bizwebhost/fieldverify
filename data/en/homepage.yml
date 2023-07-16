@@ -60,8 +60,8 @@ promo:
     <br><br>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
 
-############################# About Product #######################
-about_product:
+############################# How It Works #######################
+howitworkst:
   enable: true
   title: "Why Choose Field Verify"
   items:

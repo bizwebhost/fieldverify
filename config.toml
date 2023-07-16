@@ -47,25 +47,32 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
-url = "products/"
+name = "Features"
+pre = "#"
+url = "features"
 weight = 2
+
+[[menu.main]]
+name = "How It Works"
+pre = "#"
+url = "howitworks"
+weight = 3
 
 [[menu.main]]
 name = "Blog"
 url = "blog/"
-weight = 3
+weight = 4
 
 # [[menu.main]]
 # name = "Review"
 # pre = "#"
 # url = "testimonial"
-# weight = 4
+# weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 6
 
 # footer menu
 [[menu.footer]]
