@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.fieldverify.co.za/"
+baseurl = "https://fieldverify.co.za/"
 title = "Field Verify | collect data accurately"
 theme = "vex-hugo"
 # post excert
